@@ -2,7 +2,7 @@
 
 📌 Project Overview
 This project analyzes restaurant data from Kaggle, focusing on various restaurant categories in Germany.
-Using Jupyter Notebook, Pandas, and Power BI, we conducted a comprehensive analysis of restaurants based on location, rating, price, and review count.
+Using Jupyter Notebook, Pandas, and Power BI, I conducted a comprehensive analysis of restaurants based on location, rating, price, and review count.
 
 🛠 Tools & Technologies Used
 
