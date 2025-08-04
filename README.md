@@ -73,4 +73,5 @@ The columns used in the data are:"totalScore","reviewsCount","price","city","cat
 
 
 💡 Feel free to contribute by opening a pull request!
+
 📩 Contact: [https://www.linkedin.com/in/esradt/]
